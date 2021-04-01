@@ -15,6 +15,4 @@
 
 Python Packages: advanced module load Keras, TensorFlow, pandas, sklearn
 
-## Author
 
-* **Siddharth Vijay** 
